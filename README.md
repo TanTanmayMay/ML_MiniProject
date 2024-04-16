@@ -1,6 +1,6 @@
 # Big-Mart-Sales-Prediction
 
-This is the ML Mini project of Group 1 in M10 Batch.
+This is the DSBDA Mini project.
 
 Motivation behind choosing this Problem statement?
 We randomly picked up a problem Statement hosted on Analytics Vidhya platform and implemented the same using machine learning algorithms taught to us in our curriculum
