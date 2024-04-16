@@ -32,6 +32,7 @@ Outlet_Type | Whether the outlet is just a grocery store or some sort of superma
 Item_Outlet_Sales | Sales of the product in the particulat store. This is the outcome variable to be predicted.
 
 ## The Team
-1) Ritesh Mahajan - 33244
-2) Darshan Gohad  - 33232
-3) Tanmay Kokate  - 33241
+1) Chaitanya Deshpande - 33225
+2) Darshan Gohad       - 33232
+3) Sumedh Joshi        - 33235
+4) Tanmay Kokate       - 33241
